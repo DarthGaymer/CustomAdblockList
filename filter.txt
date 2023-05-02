@@ -1,12 +1,12 @@
-!
-! Title: Adguard Home Custom filter
-! Description: Custom AdBlock filer
-! Homepage: https://github.com/DarthGaymer/CustomAdblockList
-! 
-!
-! Source: https://github.com/DarthGaymer/CustomAdblockList/blob/main/filter.txt
-! 
-! Top Level Domains
+#
+# Title: Adguard Home Custom filter
+# Description: Custom AdBlock filer
+# Homepage: https://github.com/DarthGaymer/CustomAdblockList
+# 
+#
+#Source: https://github.com/DarthGaymer/CustomAdblockList/blob/main/filter.txt
+#
+# Top Level Domains
 
 ||xyz^
 ||pro^
@@ -20,7 +20,7 @@
 
 
 
-! Websites
+# Websites
 ||oceancitymd.gov^
 ||ibericusgourmet.com^
 ||navajotimes.com^
