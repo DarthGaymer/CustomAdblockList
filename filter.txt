@@ -1,0 +1,5 @@
+!
+! Title: Adguard Home Custom filter
+! Description: Custom AdBlock filer
+! Homepage: https://github.com/DarthGaymer/CustomAdblockList
+! Last modified: 
