@@ -2,7 +2,7 @@
 ! Version:
 ! Title: Adguard Home Custom filter
 ! Last modified:
-! Expires: 
+! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
 # 
