@@ -1,10 +1,13 @@
-#
-# Title: Adguard Home Custom filter
-# Description: Custom AdBlock filer
-# Homepage: https://github.com/DarthGaymer/CustomAdblockList
+[Adblock Plus 2.0]
+! Version:
+! Title: Adguard Home Custom filter
+! Last modified:
+! Expires: 
+! Homepage: https://github.com/DarthGaymer/CustomAdblockList
+!
 # 
 #
-#Source: https://github.com/DarthGaymer/CustomAdblockList/blob/main/filter.txt
+# Source: https://github.com/DarthGaymer/CustomAdblockList/blob/main/filter.txt
 #
 # Top Level Domains
 
@@ -147,3 +150,42 @@
 ||gennion.com^
 ||literatureproject.com^
 ||werk.de^
+||genamics.com^
+||qodefusion.com^
+||gammarat.com^
+||culturebeach.com^
+||superonline.net^
+||casadosparafusosnsa.com^
+||gaster.net.br^
+||decoskin.app^
+||sinalsulsinalizacao.com.br^
+||nikk.hu^
+||goteamkate.com^
+||cauvine.com^
+||mobilenew.sgsuat.info^
+||rdl.com.br^
+||insanitycoupon.com^
+||waterpektakel.com^
+||alestaotel.com^
+||phs.org^
+||mx2.avis.ne.jp^
+||libimseti.cz^
+||ideas-become-reality.com^
+||santecenter.com^
+||essentialedge.com^
+||ukrtermodom.com.ua^
+||passmore.com^
+||info-galaxy.com^
+||rosemortuary.com^
+||yenimoda.net^
+||ccsicares.com^
+||seoulkalbi.jp^
+||bodrumbycenteremlak.com^
+||it.angelalansbury.net^
+||flysn.com^
+||vdc.com.vn^
+||george24.com^
+||bestpricelens.com^
+||neoxfarma.com^
+||cpsemail.ed.gov^
+||alluremailer.com^
