@@ -312,3 +312,5 @@
 ||webinarupdateeducation.com^
 ||xledger.com^
 ||zoominfo.io^
+||otpku.com^
+||helpgreenstate-cu.me^
