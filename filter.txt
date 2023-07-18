@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 20230612
 ! Title: Adguard Home Custom filter
-! Last modified: 07/01/2023
+! Last modified: 07/18/2023
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -1008,6 +1008,9 @@
 ||waterpektakel.com^
 ||waterpektakel.com^
 ||wba.com^
+||web-campaigns.com^
+||webcampaigns.com^
+||web-campaigns.net^
 ||webinaraxisupdate.com^
 ||webinarupdateeducation.com^
 ||werk.de^
