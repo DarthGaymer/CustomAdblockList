@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 20230612
+! Version: 20230818
 ! Title: Adguard Home Custom filter
 ! Last modified: 08/18/2023
 ! Expires: 12 hours
