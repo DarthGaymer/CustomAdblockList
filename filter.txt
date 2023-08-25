@@ -103,6 +103,7 @@
 ||ardteangadhuchais.org^
 ||arquivotatal.com.br^
 ||arteriatech.com^
+||artesgraficasestrella.com^
 ||artsistem.com^
 ||asaleveaux.com^
 ||asantra.com^
@@ -250,6 +251,7 @@
 ||codero.net^
 ||coleiomandatarios.com.ar^
 ||comart.com.br^
+||comstockhoa.net^
 ||comatexspa.com^
 ||compliancesonline.com^
 ||comune.vetralla.vt.gov.it^
@@ -386,6 +388,7 @@
 ||foxitpdf.com^
 ||foxitpdf.net^
 ||france-locations.fr^
+||francetvinfo.fr^
 ||freebiesfrenzy.com^
 ||freebizznet.vn^
 ||fresystem.com^
@@ -558,6 +561,8 @@
 ||kirche-tostedt.de^
 ||klubgotografu.cz^
 ||koh-i-noor.cz^
+||kohl.gift.us^
+||kohl.gifts.us^
 ||kokudo-c.co.jp^
 ||konyavsdb.gov.tr^
 ||kosmosponline.org^
@@ -769,11 +774,13 @@
 ||pilarschoice.nl^
 ||pillichsdort.at^
 ||pixelphotovideo^
+||pirlotv.fr^
 ||plantabillion.org^
 ||platonsecuritiesation.com^
 ||plattcon.net^
 ||playground-supplies.com^
 ||plaza.com.tr^
+||podcastfrancaisfacile.com^
 ||poojaangra.com^
 ||pooltrackr.com^
 ||popupvillage.be^
@@ -810,6 +817,7 @@
 ||rdl.com.br^
 ||realinsurancelady.com^
 ||realpeople.dating^
+||recorrido.cl^
 ||redseacollege.com^
 ||redventures.io^
 ||reginas-hundeschule.de^
