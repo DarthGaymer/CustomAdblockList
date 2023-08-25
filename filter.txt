@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20230823
+! Version: 20230825
 ! Title: Adguard Home Custom filter
-! Last modified: 08/23/2023
+! Last modified: 08/25/2023
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -371,6 +371,8 @@
 ||femmeactuelle.fr^
 ||ferreteriaperez.com^
 ||fertrack.com.br^
+||finaltouchfibercare.com^
+||finaltouchfibrecare.com^
 ||filterinter.com.br^
 ||find-teacher.com^
 ||firesafetyconstruction.com.au^
