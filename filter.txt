@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20230825
+! Version: 20230910
 ! Title: Adguard Home Custom filter
-! Last modified: 08/25/2023
+! Last modified: 09/10/2023
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -531,6 +531,7 @@
 ||isaro.ro^
 ||isoladeimatti.com^
 ||isuzu.com.tr^
+||isyours.live^
 ||it.angelalansbury.net^
 ||itainnova.es^
 ||itresourcescorp.com^
@@ -651,6 +652,8 @@
 ||mobility-commpany.co.uk^
 ||moduldus.com.tr^
 ||molokaiuhd.x2p.fr^
+||moneymakeover.net^
+||moneymakovers.net^
 ||mononico.us^
 ||monopoly-club.com^
 ||montanalottery.com^
@@ -1037,6 +1040,7 @@
 ||web-campaigns.net^
 ||webinaraxisupdate.com^
 ||webinarupdateeducation.com^
+||websitewelcome.com^
 ||werk.de^
 ||westelm.com^
 ||westgatehouse.com^
