@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20230910
+! Version: 20230916
 ! Title: Adguard Home Custom filter
-! Last modified: 09/10/2023
+! Last modified: 09/16/2023
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -512,6 +512,7 @@
 ||info-galaxy.com^
 ||infopolis.es^
 ||info-rochester100.com^
+||informabtl.com^
 ||infotrycket.com^
 ||inga.com.vn^
 ||inrete.com^
@@ -986,6 +987,7 @@
 ||ukrtermodom.com.ua^
 ||uktermodom.com.ua^
 ||umanitoba.ca^
+||uniathena.com^
 ||unimec.ro^
 ||uniodontosino.com.br^
 ||unity-wear.com^
