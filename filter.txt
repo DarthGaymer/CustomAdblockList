@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20230916
+! Version: 20230924
 ! Title: Adguard Home Custom filter
-! Last modified: 09/16/2023
+! Last modified: 09/24/2023
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -771,6 +771,7 @@
 ||passtrust.com^
 ||pcb.com.tw^
 ||pertyvaluati.com^
+||pepsup.com^
 ||perusall.com^
 ||pgsummer.co.uk^
 ||pharmaaa.can^
@@ -961,6 +962,7 @@
 ||thooklyn-arresign.com^
 ||threegatguyswine.com^
 ||thridwavenutrition.com^
+||tidy.cl^
 ||tikbuddy.com^
 ||tinyurban.com^
 ||tommasi.com.br^
