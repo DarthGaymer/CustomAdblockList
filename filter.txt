@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231001
+! Version: 20231026
 ! Title: Adguard Home Custom filter
-! Last modified: 10/01/2023
+! Last modified: 10/26/2023
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -189,6 +189,7 @@
 ||caiodopao.com.br^
 ||caktanks.co.uk^
 ||calibra.fr^
+||californiapc.com^
 ||candour-gmbh.de^
 ||carcassonnecentral.com^
 ||cardealsnearyou.com^
@@ -680,6 +681,7 @@
 ||mvandenys.it^
 ||mx2.avis.ne.jp^
 ||myappfree.com^
+||mycellphonedirectory.com^
 ||myemailtracking.com^
 ||myhrclassess.com^
 ||myitcontent.com^
@@ -754,6 +756,7 @@
 ||online-audiowebinars.com^
 ||online-audio-webinars.com^
 ||onlineaudiowebinarupdate.com^
+||onlinegames.us.com^
 ||openwebcms.es^
 ||opositeass.com^
 ||or.id^
@@ -761,6 +764,7 @@
 ||osganalytics.com^
 ||ospfe.it^
 ||otpku.com^
+||ourspell.com^
 ||oyun-programlama.com^
 ||palco-ps.com^
 ||palmerstoncomputers.com.au^
@@ -825,6 +829,8 @@
 ||realinsurancelady.com^
 ||realpeople.dating^
 ||recorrido.cl^
+||recvideo.com^
+||recvideo.com.br^
 ||redseacollege.com^
 ||redventures.io^
 ||reginas-hundeschule.de^
@@ -935,6 +941,7 @@
 ||store-mix.com^
 ||strange-loops.com^
 ||studiovecchietti.com^
+||studioninja.com^
 ||sundirect.in^
 ||superiorsolutions.ca^
 ||superonline.com^
@@ -997,6 +1004,7 @@
 ||uniodontosino.com.br^
 ||unity-wear.com^
 ||univ-lyon2.fr^
+||unlimiteddoctorcalls.com^
 ||uolsinectis.com.ar^
 ||uotilankivi.com^
 ||uparucarukiwnoc.shop^
