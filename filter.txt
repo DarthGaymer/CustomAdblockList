@@ -11,29 +11,35 @@
 #
 # Top Level Domains
 
-||.xyz^
+||.ar^
+||.beauty^
+||.br^
+||.by^
+||.cf^
+||.click^
+||.dating^
+||.degree^
+||.fyi^
+||.ga^
+||.gq^
+||.haus^
+||.ir^
+||.live^
+||.market^
+||.ml^
 ||.pro^
+||.ro^
+||.rip^
 ||.ru^
 ||.top^
-||.by^
-||.ru^
-||.ro^
-||.ar^
-||.ir^
-||.dating^
-||.click^
-||.ga^
 ||.tk^
-||.ml^
-||.cf^
-||.degree^
-||.haus^
-||.gq^
-||.market^
-||.fyi^
-||.beauty^
+||.xn--2scrj9c^
+||.xn--s9brj9c^
+||.xn--xhq521b^
+||.xn-*^
+||.xyz^
 ||.zone^
-||.live^
+
 
 
 # Websites
