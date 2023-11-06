@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231026
+! Version: 20231106
 ! Title: Adguard Home Custom filter
-! Last modified: 10/26/2023
+! Last modified: 11/06/23
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -69,6 +69,7 @@
 ||agedama1ban.com^
 ||agpetek.com^
 ||agronas.pl^
+||aimscholaracademy.org^
 ||ak.whookroo.com^
 ||akyuzelektrik.com^
 ||alestaotel.com^
@@ -375,6 +376,7 @@
 ||femmeactuelle.fr^
 ||ferreteriaperez.com^
 ||fertrack.com.br^
+||fikgpbvtai.com^
 ||finaltouchfibercare.com^
 ||finaltouchfibrecare.com^
 ||filterinter.com.br^
@@ -822,6 +824,7 @@
 ||rad1.fr^
 ||radiadoresfeliu.com^
 ||ralcrimea.net^
+||ramalhofotografia.com.br^
 ||rapdotcom.com^
 ||rberman.me^
 ||rcwilliams207.com^
@@ -975,6 +978,7 @@
 ||tidy.cl^
 ||tikbuddy.com^
 ||tinyurban.com^
+||tjareborg.fi^
 ||tommasi.com.br^
 ||torichu.ne.jp^
 ||totclimacnfort.com^
