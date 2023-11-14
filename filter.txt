@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231106
+! Version: 20231114
 ! Title: Adguard Home Custom filter
-! Last modified: 11/06/23
+! Last modified: 11/14/23
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -967,6 +967,7 @@
 ||teamtjb.com^
 ||techno-life.it^
 ||techtarget.com^
+||techpros.io^
 ||telizon.ca^
 ||testingnow.me^
 ||tesurtoya.com^
