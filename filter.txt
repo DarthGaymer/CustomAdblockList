@@ -8,7 +8,8 @@
 # 
 #
 # Source: https://github.com/DarthGaymer/CustomAdblockList/blob/main/filter.txt
-#
+
+
 # Top Level Domains
 
 ||.ar^
@@ -42,7 +43,8 @@
 
 
 
-# Websites
+# Domains
+
 ||*.in-addr.arpa^
 ||*.star.*.facebook.com^
 ||_dns.resolver.arpa^
@@ -905,6 +907,7 @@
 ||sexylook.com^
 ||sfsdistribution.uk^
 ||sgsuat.info^
+||shein.com^
 ||shenandoahvalleyphones.com^
 ||shippingcontainerjungle.com^
 ||shirtmasters.co.uk^
@@ -972,6 +975,7 @@
 ||techtarget.com^
 ||techpros.io^
 ||telizon.ca^
+||temu.com^
 ||testingnow.me^
 ||tesurtoya.com^
 ||tgnet.net^
