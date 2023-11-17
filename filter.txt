@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231114
+! Version: 20231117
 ! Title: Adguard Home Custom filter
-! Last modified: 11/14/23
+! Last modified: 11/17/23
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -428,6 +428,7 @@
 ||george24.com^
 ||george24.com^
 ||getacg.com^
+||getshyftauto.com^
 ||getup-educators.com^
 ||gira.net^
 ||glaichid.net^
@@ -591,6 +592,7 @@
 ||laprotectora.com^
 ||lashesncurls.com^
 ||lasyucas.com^
+||lcdnikp.elodz.edu.pl^
 ||learningtree.com^
 ||leegallagher.com^
 ||lega-pro.com^
@@ -847,6 +849,7 @@
 ||remaacon.com.br^
 ||renkus-heinz.com^
 ||response.tvguide.com^
+||rezgo.com^
 ||ridaalhoraibi.com^
 ||ripenook.com^
 ||rns.co.za^
