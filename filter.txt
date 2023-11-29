@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231117
+! Version: 20231129
 ! Title: Adguard Home Custom filter
-! Last modified: 11/17/23
+! Last modified: 11/29/23
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -106,6 +106,7 @@
 ||apo-jacobi.de^
 ||applabsystems.com^
 ||appshopper.com^
+||aqpsuqjagm.com^
 ||arachnestudio.com^
 ||arboledamediterranean.com^
 ||archangelvideo.com^
@@ -246,6 +247,7 @@
 ||citroen-wrc.de^
 ||ck3solutions.com^
 ||cleannet.com.br^
+||clearserfvpnd.com^
 ||clickajobs.io^
 ||click-cdn.com^
 ||clickflowzzz.com^
@@ -268,7 +270,7 @@
 ||confitureandco.com^
 ||conscioushead.net^
 ||consettur.com^
-||consumerdirectx.com^$
+||consumerdirectx.com^
 ||cormupa.cl^
 ||costumer.eu^
 ||coursesministry.com^
@@ -556,6 +558,8 @@
 ||jardinedistribution^
 ||jawsburn.us^
 ||jcnnet.jp^
+||jerkmate.com^
+||jerkmate.fun^
 ||jobportal2u.com^
 ||judithglue.com^
 ||jufap.com.br^
@@ -641,6 +645,7 @@
 ||mattwelch.com^
 ||maurymw.com^
 ||mayabasim.com^
+||mvclmx.com^
 ||mediadeguate.com^
 ||merrymaids.com^
 ||meteoalpi.com^
@@ -707,6 +712,7 @@
 ||navajotimes.com^
 ||navajotimes.com^
 ||nazuna727.jp^
+||nbentodil.com^
 ||nduarte.biz^
 ||neoxfarma.com^
 ||neoxpharma.com^
@@ -716,6 +722,7 @@
 ||netuno.com.br^
 ||netwave.or.jp^
 ||newmedia.no^
+||newsandpromotions.com^
 ||newteck-inc.com^
 ||newwebinaraxis.com^
 ||nexercise.com^
@@ -793,6 +800,7 @@
 ||perusall.com^
 ||pgsummer.co.uk^
 ||pharmaaa.can^
+||phicdn.net^
 ||phs.org^
 ||pilarschoice.nl^
 ||pillichsdort.at^
@@ -951,6 +959,7 @@
 ||staynavi.direct^
 ||steppinstonearkansas.com^
 ||stevendouqlas.com^
+||stivers-ricsovers.com^
 ||stockholmlaserstudio.se^
 ||stoledo.com.br^
 ||store-mix.com^
