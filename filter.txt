@@ -41,9 +41,10 @@
 ||.xyz^
 ||.zone^
 
+# Blocked Domains
+||temu.com^
 
-
-# Domains
+# Spam/Phishing Domains
 
 ||*.in-addr.arpa^
 ||*.star.*.facebook.com^
