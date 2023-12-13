@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231129
+! Version: 20231213
 ! Title: Adguard Home Custom filter
-! Last modified: 11/29/23
+! Last modified: 12/12/23
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -153,6 +153,7 @@
 ||basementanswers.com^
 ||bauibold.com^
 ||bcsdk12.org^
+||beautyblender.com^
 ||bebektasarim.com^
 ||behuotgxytph.com^
 ||belnet.ru^
@@ -213,6 +214,7 @@
 ||casadosparafusosnsa.com^
 ||casadosparafusosnsa.com^
 ||cashet.com^
+||casinovipcards.com^
 ||castellare.it^
 ||castlemon.com^
 ||cat.net.th^
@@ -245,6 +247,7 @@
 ||chinamobile.com^
 ||chinatravelz.com^
 ||chris.urban
+||christmasbestdeals.com^
 ||citroen-wrc.de^
 ||ck3solutions.com^
 ||cleannet.com.br^
@@ -571,11 +574,13 @@
 ||kadoxile.com^
 ||kakaoevents.pl^
 ||kamaria.eu^
+||katieporter.com^
 ||kazakhstan.com.ph^
 ||kbsmedia.com.kr^
 ||kddpyiyrbckqnw.com^
 ||kecoakecil.com^
 ||kellnermail.com^
+||keropetrol.com^
 ||khondeeherb.com^
 ||kimblegroup.com^
 ||kirche-tostedt.de^
@@ -618,6 +623,7 @@
 ||limbsandthings.com^
 ||lionsgatepines.org^
 ||list.ru^
+||listen360.com^
 ||literatureproject.com^
 ||literatureprojects.com^
 ||livinghistory.co.uk^
@@ -626,6 +632,7 @@
 ||lmosquera.com^
 ||love88.club^
 ||lovefoamrum.com^
+||lowesnotebook.com^
 ||lrproject.com.br^
 ||lucidchart.com^
 ||lupineresearch.net^
@@ -679,6 +686,7 @@
 ||monopoly-club.com^
 ||montanalottery.com^
 ||moonboon.com^
+||moonpod.co^
 ||moreclean.com.tw^
 ||morgages.com^
 ||motopfohne.bg^
@@ -777,6 +785,7 @@
 ||online-audio-webinars.com^
 ||onlineaudiowebinarupdate.com^
 ||onlinegames.us.com^
+||openboutiques.com^
 ||openwebcms.es^
 ||opositeass.com^
 ||or.id^
@@ -877,6 +886,7 @@
 ||rubenserra.com.ar^
 ||rubhim.com^
 ||runtastic.com^
+||salonized.com^
 ||samuelfernandes.com.br^
 ||santecenter.com^
 ||sanyu3.com^
@@ -898,6 +908,7 @@
 ||selmaplaza.com^
 ||semanarusa.es^
 ||sembox.it^
+||semcom.edu.in^
 ||seminaremail.com^
 ||semis.com^
 ||sempertech.com^
@@ -916,6 +927,7 @@
 ||sexylook.com^
 ||sfsdistribution.uk^
 ||sgsuat.info^
+||shebirdshop.com^
 ||shein.com^
 ||shenandoahvalleyphones.com^
 ||shippingcontainerjungle.com^
@@ -941,6 +953,7 @@
 ||social-mail.net^
 ||soelips.fr^
 ||softonicaura.com^
+||solioswatches.com^
 ||solixinfo.com^
 ||sophos.com^
 ||sorayaigt.ae^
@@ -1033,6 +1046,7 @@
 ||unity-wear.com^
 ||univ-lyon2.fr^
 ||unlimiteddoctorcalls.com^
+||unrivall.com^
 ||uolsinectis.com.ar^
 ||uotilankivi.com^
 ||uparucarukiwnoc.shop^
@@ -1094,6 +1108,7 @@
 ||williamsonlinecredit.com^
 ||wilsoncreekuniongrain.com^
 ||wimarchitect.com^
+||*.windowsuploads.com^
 ||xledger.com^
 ||xmlhack.com^
 ||xn--h6qq3wtzo6m6a.com^
