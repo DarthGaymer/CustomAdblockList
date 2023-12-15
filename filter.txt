@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231213
+! Version: 20231215
 ! Title: Adguard Home Custom filter
-! Last modified: 12/12/23
+! Last modified: 12/15/23
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -420,6 +420,7 @@
 ||ganelle.ca^
 ||gaster.net.br^
 ||gazoi.com^
+||gaz009p.c3service.com^
 ||gcorpwv.com^
 ||gearbest.com^
 ||geisenhof.de^
