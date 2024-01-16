@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231220
+! Version: 20240116
 ! Title: Adguard Home Custom filter
-! Last modified: 12/20/23
+! Last modified: 1/16/24
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -368,6 +368,7 @@
 ||essentialedge.com^
 ||estacaobrasil.srv.br^
 ||etbu.edu^
+||eternitymodern.ca^
 ||euvision.co.uk^
 ||eva-young.us^
 ||eventsqed.com^
@@ -1110,6 +1111,7 @@
 ||wilsoncreekuniongrain.com^
 ||wimarchitect.com^
 ||*.windowsuploads.com^
+||ws1.com^
 ||xledger.com^
 ||xmlhack.com^
 ||xn--h6qq3wtzo6m6a.com^
