@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20240116
+! Version: 20240130
 ! Title: Adguard Home Custom filter
-! Last modified: 1/16/24
+! Last modified: 1/30/24
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -34,6 +34,7 @@
 ||.ru^
 ||.top^
 ||.tk^
+||.uz^
 ||.xn--2scrj9c^
 ||.xn--s9brj9c^
 ||.xn--xhq521b^
@@ -54,6 +55,7 @@
 ||1und1.de^
 ||25quantage.com^
 ||9dsale.com^
+||a1formular.ro^
 ||aanci.ro^
 ||abri-terrasse-abrisud.com^
 ||absurdbasin.com^
@@ -272,6 +274,7 @@
 ||compliancesonline.com^
 ||comune.vetralla.vt.gov.it^
 ||confitureandco.com^
+||confuciustashkent.com^
 ||conscioushead.net^
 ||consettur.com^
 ||consumerdirectx.com^
@@ -299,6 +302,7 @@
 ||dailybreadhome.co.z^
 ||dailybreadhome.co.za^
 ||dallogistica.com.br^
+||darak.uz^
 ||dare2compete.email^
 ||das-gastliche-dorf.de^
 ||datamailonosiler-03-net^
@@ -353,6 +357,7 @@
 ||el-tehnologies.biz^
 ||email-familyvideo.com^
 ||emmecolor.com^
+||emarket.work^
 ||enginesend.com^
 ||enhancesutdios.com.au^
 ||enquirealder.com^
@@ -449,6 +454,7 @@
 ||gmx.net^
 ||gmx.us^
 ||gnbrokerseguros.com^
+||gob.ar^
 ||go-fitness-spa.com^
 ||goldiminerals.com^
 ||gonift.com^
@@ -559,6 +565,7 @@
 ||itainnova.es^
 ||itresourcescorp.com^
 ||itsonlyforayear.com^
+||ium.pt^
 ||jadala.com^
 ||jama.com.br^
 ||jannekeschmeitz.nl^
@@ -708,6 +715,7 @@
 ||museosdecostarica.com^
 ||muzoohat.net^
 ||mvandenys.it^
+||mvsi.com^
 ||mx2.avis.ne.jp^
 ||myappfree.com^
 ||mycellphonedirectory.com^
@@ -814,6 +822,7 @@
 ||pgsummer.co.uk^
 ||pharmaaa.can^
 ||phs.org^
+||picabooyearbooks.com^
 ||pilarschoice.nl^
 ||pillichsdort.at^
 ||pixelphotovideo^
