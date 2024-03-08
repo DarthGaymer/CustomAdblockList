@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20240130
+! Version: 20240308
 ! Title: Adguard Home Custom filter
-! Last modified: 1/30/24
+! Last modified: 3/8/24
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -388,6 +388,7 @@
 ||faceb0ok.com^
 ||facebo0k.com^
 ||fadeeac.org.ar^
+||faesa.br^
 ||familynet.or.kr^
 ||faster.net.br^
 ||fckmail.com^
@@ -858,6 +859,7 @@
 ||qservice.cz^
 ||quarkdesigners.com^
 ||quavu.com.au^
+||quicksnacks.net^
 ||quieremecomosoy.com^
 ||qulabs.com^
 ||rad1.fr^
