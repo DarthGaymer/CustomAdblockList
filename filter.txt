@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20240308
+! Version: 20240315
 ! Title: Adguard Home Custom filter
-! Last modified: 3/8/24
+! Last modified: 3/15/24
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -108,6 +108,7 @@
 ||anykeypress.ca^
 ||apo-jacobi.de^
 ||applabsystems.com^
+||apple-repairing.com^
 ||appshopper.com^
 ||aqpsuqjagm.com^
 ||arachnestudio.com^
@@ -250,6 +251,7 @@
 ||chinatravelz.com^
 ||chris.urban
 ||christmasbestdeals.com^
+||cicotit.com^
 ||citroen-wrc.de^
 ||ck3solutions.com^
 ||cleannet.com.br^
@@ -267,6 +269,7 @@
 ||coam.es^
 ||code4us.com^
 ||codero.net^
+||coinshieldios.com^
 ||coleiomandatarios.com.ar^
 ||comart.com.br^
 ||comstockhoa.net^
@@ -278,6 +281,7 @@
 ||conscioushead.net^
 ||consettur.com^
 ||consumerdirectx.com^
+||coolappstuff.com^
 ||cormupa.cl^
 ||costumer.eu^
 ||coursesministry.com^
@@ -287,6 +291,7 @@
 ||creditkarma.app.link^
 ||crelligence.com^
 ||crestviewbuilders.com^
+||creassert.com^
 ||crisfer.com^
 ||crisfer.com^
 ||crlavega.com^
@@ -571,6 +576,7 @@
 ||jama.com.br^
 ||jannekeschmeitz.nl^
 ||jardinedistribution^
+||jarratop.com^
 ||jawsburn.us^
 ||jcnnet.jp^
 ||jerkmate.com^
@@ -756,6 +762,7 @@
 ||nohtrainingprojectuk.org^
 ||nokeegne.com^
 ||northstarfinancial.com^
+||nortonultimatehelpdesk.store^
 ||notoucheasygloves.com^
 ||ntz.de^
 ||nuleedsa.net^
@@ -817,6 +824,7 @@
 ||passmore.com^
 ||passtrust.com^
 ||pcb.com.tw^
+||pekroace.net^
 ||pertyvaluati.com^
 ||pepsup.com^
 ||perusall.com^
@@ -966,6 +974,7 @@
 ||social-mail.net^
 ||soelips.fr^
 ||softonicaura.com^
+||solarscr.com^
 ||solioswatches.com^
 ||solixinfo.com^
 ||sophos.com^
