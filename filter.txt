@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20240315
+! Version: 20240719
 ! Title: Adguard Home Custom filter
-! Last modified: 3/15/24
+! Last modified: 7/17/24
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -13,27 +13,47 @@
 # Top Level Domains
 
 ||.ar^
+||.autos^
+||.bar^
 ||.beauty^
+||.best^
+||.boats^
 ||.br^
 ||.by^
+||.cam^
 ||.cf^
+||.cfd^
 ||.click^
+||.cyou^
 ||.dating^
 ||.degree^
 ||.fyi^
 ||.ga^
 ||.gq^
+||.hair^
 ||.haus^
 ||.ir^
 ||.live^
+||.lol^
+||.makeup^
 ||.market^
 ||.ml^
+||.mobi^
+||.monster^
+||.no^
+||.om^
 ||.pro^
+||.pw^
 ||.ro^
 ||.rip^
 ||.ru^
+||.sbs^
+||.skin^
+||.tattoo^
+||.today^
 ||.top^
 ||.tk^
+||.uno^
 ||.uz^
 ||.xn--2scrj9c^
 ||.xn--s9brj9c^
@@ -49,6 +69,7 @@
 
 ||*.in-addr.arpa^
 ||*.star.*.facebook.com^
+||*.windowsuploads.com^
 ||_dns.resolver.arpa^
 ||013.net^
 ||1st.ir^
@@ -61,7 +82,6 @@
 ||absurdbasin.com^
 ||ac.at^
 ||ac.nz^
-||acc3-training.com^
 ||acc3-training.com^
 ||achamilton.co.uk^
 ||aconsa.com.mx^
@@ -83,7 +103,7 @@
 ||aimscholaracademy.org^
 ||ak.whookroo.com^
 ||akyuzelektrik.com^
-||alestaotel.com^
+||alchemer.com^
 ||alestaotel.com^
 ||alicewax.com^
 ||aliegre.com^
@@ -91,16 +111,17 @@
 ||allcompanyonline.com^
 ||all-roundproducts.com^
 ||alluremailer.com^
-||alluremailer.com^
 ||alpinealuminium.com^
 ||alpinealuminum.com^
 ||alsacreations.com^
+||amil.callcuuss.shop^
 ||amplitudewatch.com^
 ||amsheildins.com^
 ||analytics-active.com^
 ||anemonerne.dk^
+||anescat.com^
 ||angelalansbury.net^
-||announcedvisit.net^
+||angleblow.com^
 ||announcedvisit.net^
 ||anthonyaladd.com^
 ||anti.ro^
@@ -142,8 +163,6 @@
 ||avis.ne.jp^
 ||avxnic.com^
 ||awizio.com^
-||awizio.com^
-||aykum.com^
 ||aykum.com^
 ||ay-pe.com^
 ||azncoolj.biz^
@@ -156,6 +175,7 @@
 ||basementanswers.com^
 ||bauibold.com^
 ||bcsdk12.org^
+||beardess.com^
 ||beautyblender.com^
 ||bebektasarim.com^
 ||behuotgxytph.com^
@@ -180,9 +200,7 @@
 ||bncollege.com^
 ||bodacor.com^
 ||bodrumbycenteremlak.com^
-||bodrumbycenteremlak.com^
 ||bol.com.br^
-||boldprogressives.org^
 ||boldprogressives.org^
 ||boltcms.com.au^
 ||bookljlihooli.com^
@@ -196,7 +214,6 @@
 ||businessmaking.progress.net^
 ||bustedtrees.com^
 ||butlerpartner.org^
-||butlerpartner.org^
 ||buxdti.uz^
 ||buy.itunes-apple.com.akadns.net^
 ||bv-obermenzing.de^
@@ -209,12 +226,10 @@
 ||carcassonnecentral.com^
 ||cardealsnearyou.com^
 ||care2.com^
-||care2.com^
 ||car-lift.pl^
 ||carmar.com.tr^
 ||carnegies.com^
 ||carrefour-iraq.com^
-||casadosparafusosnsa.com^
 ||casadosparafusosnsa.com^
 ||cashet.com^
 ||casinovipcards.com^
@@ -222,15 +237,12 @@
 ||castlemon.com^
 ||cat.net.th^
 ||cattelecom.com^
-||cattelecom.com^
-||cauvine.com^
 ||cauvine.com^
 ||cavllinocollection.com^
 ||cccp-star.com^
 ||ccpcapital.com^
 ||ccsecurity.com.au^
 ||ccsend.com^
-||ccsicares.com^
 ||ccsicares.com^
 ||cellsignal.com^
 ||cemisa.com^
@@ -244,14 +256,13 @@
 ||charton.nsw.edu.au^
 ||cheapfancydress.com^
 ||checkpeople.com^
-||checkpeople.com^
-||checkpeople.com^
 ||chinafpn.com^
 ||chinamobile.com^
 ||chinatravelz.com^
 ||chris.urban
 ||christmasbestdeals.com^
 ||cicotit.com^
+||cillcal.com^
 ||citroen-wrc.de^
 ||ck3solutions.com^
 ||cleannet.com.br^
@@ -272,9 +283,9 @@
 ||coinshieldios.com^
 ||coleiomandatarios.com.ar^
 ||comart.com.br^
-||comstockhoa.net^
 ||comatexspa.com^
 ||compliancesonline.com^
+||comstockhoa.net^
 ||comune.vetralla.vt.gov.it^
 ||confitureandco.com^
 ||confuciustashkent.com^
@@ -288,20 +299,19 @@
 ||cowboyoutfitters.com^
 ||cpsemail.ed.gov^
 ||crazydog.pl^
+||creassert.com^
 ||creditkarma.app.link^
 ||crelligence.com^
 ||crestviewbuilders.com^
-||creassert.com^
-||crisfer.com^
 ||crisfer.com^
 ||crlavega.com^
-||crosstownexecutivesuites.com^
 ||crosstownexecutivesuites.com^
 ||cs.nccu.edu.tw^
 ||culturebeach.com^
 ||culturemilan.com^
 ||cyberog.com.au^
 ||cyc0601.com^
+||cyvict.com^
 ||dacasale.eu^
 ||dacommunications.com.au^
 ||dailybreadhome.co.z^
@@ -335,7 +345,6 @@
 ||dmpsrl.eu^
 ||dn-mail.de^
 ||docil.org^
-||docil.org^
 ||domusvi.com^
 ||doobyyooby.com^
 ||doorcountycottage.net^
@@ -358,11 +367,10 @@
 ||egabtrucks.nl^
 ||egal-net.com^
 ||elef.nl^
-||elef.nl^
 ||el-tehnologies.biz^
 ||email-familyvideo.com^
-||emmecolor.com^
 ||emarket.work^
+||emmecolor.com^
 ||enginesend.com^
 ||enhancesutdios.com.au^
 ||enquirealder.com^
@@ -403,10 +411,11 @@
 ||femmeactuelle.fr^
 ||ferreteriaperez.com^
 ||fertrack.com.br^
+||ficlook.com^
 ||fikgpbvtai.com^
+||filterinter.com.br^
 ||finaltouchfibercare.com^
 ||finaltouchfibrecare.com^
-||filterinter.com.br^
 ||find-teacher.com^
 ||firesafetyconstruction.com.au^
 ||flo.uri.sh^
@@ -432,8 +441,8 @@
 ||gammarat.com^
 ||ganelle.ca^
 ||gaster.net.br^
-||gazoi.com^
 ||gaz009p.c3service.com^
+||gazoi.com^
 ||gcorpwv.com^
 ||gearbest.com^
 ||geisenhof.de^
@@ -447,7 +456,6 @@
 ||gentryszejd.eu^
 ||genvo.it^
 ||geoekspress.com^
-||george24.com^
 ||george24.com^
 ||getacg.com^
 ||getshyftauto.com^
@@ -497,6 +505,7 @@
 ||hellsangelsforever.vom^
 ||hellsblankets.com^
 ||helpgreenstate-cu.me^
+||hennacoo.com^
 ||hetaruvg.com^
 ||hhdana.com.ar^
 ||hirano-ss.co.jp^
@@ -545,8 +554,8 @@
 ||infoaomori.ne.jp^
 ||info-galaxy.com^
 ||infopolis.es^
-||info-rochester100.com^
 ||informabtl.com^
+||info-rochester100.com^
 ||infotrycket.com^
 ||inga.com.vn^
 ||inrete.com^
@@ -632,7 +641,6 @@
 ||lg-srl.com.ar^
 ||libero.it^
 ||libimseti.cz^
-||libimseti.cz^
 ||liegertconsulting.com^
 ||life4ala.com^
 ||lijastyle.com^
@@ -670,7 +678,6 @@
 ||mattwelch.com^
 ||maurymw.com^
 ||mayabasim.com^
-||mvclmx.com^
 ||mediadeguate.com^
 ||merrymaids.com^
 ||meteoalpi.com^
@@ -722,6 +729,7 @@
 ||museosdecostarica.com^
 ||muzoohat.net^
 ||mvandenys.it^
+||mvclmx.com^
 ||mvsi.com^
 ||mx2.avis.ne.jp^
 ||myappfree.com^
@@ -736,7 +744,6 @@
 ||natafter.net^
 ||nationalcarrying.co.in^
 ||naughtyselfpics.com^
-||navajotimes.com^
 ||navajotimes.com^
 ||nazuna727.jp^
 ||nbentodil.com^
@@ -755,7 +762,6 @@
 ||nexercise.com^
 ||nieorocc.me^
 ||nifty.com^
-||nikk.hu^
 ||nikk.hu^
 ||nissinsin.com.sg^
 ||nlimits.it^
@@ -776,17 +782,14 @@
 ||ocqsulwrabr.com^
 ||ocqueroques.com^
 ||odn.ne.jp^
-||odn.ne.jp^
 ||oecgroup.com.cn^
 ||oeh-leoben.at^
 ||officense.com^
 ||ohdkz.com^
 ||oi58.eu^
 ||olympiaartleague.com^
-||olympiaartleague.com^
 ||omntec.com^
 ||one.one.one.one^
-||oneidacountysheriff.us^
 ||oneidacountysheriff.us^
 ||oneris.es^
 ||onkatestil.com.tr^
@@ -825,17 +828,18 @@
 ||passtrust.com^
 ||pcb.com.tw^
 ||pekroace.net^
-||pertyvaluati.com^
 ||pepsup.com^
+||pertyvaluati.com^
 ||perusall.com^
 ||pgsummer.co.uk^
 ||pharmaaa.can^
 ||phs.org^
 ||picabooyearbooks.com^
+||pickithenk.com^
 ||pilarschoice.nl^
 ||pillichsdort.at^
-||pixelphotovideo^
 ||pirlotv.fr^
+||pixelphotovideo^
 ||plantabillion.org^
 ||platonsecuritiesation.com^
 ||plattcon.net^
@@ -870,19 +874,21 @@
 ||quicksnacks.net^
 ||quieremecomosoy.com^
 ||qulabs.com^
+||quoteivory.com^
 ||rad1.fr^
 ||radiadoresfeliu.com^
 ||ralcrimea.net^
 ||ramalhofotografia.com.br^
 ||rapdotcom.com^
+||rasedau.com^
 ||rberman.me^
 ||rcwilliams207.com^
 ||rdl.com.br^
 ||realinsurancelady.com^
 ||realpeople.dating^
 ||recorrido.cl^
-||recvideo.com^
 ||recvideo.com.br^
+||recvideo.com^
 ||redseacollege.com^
 ||redventures.io^
 ||reginas-hundeschule.de^
@@ -907,6 +913,7 @@
 ||rubenserra.com.ar^
 ||rubhim.com^
 ||runtastic.com^
+||rustemap.com^
 ||salonized.com^
 ||samuelfernandes.com.br^
 ||santecenter.com^
@@ -960,8 +967,8 @@
 ||signsparkle.com^
 ||signupcert.com^
 ||simplivlearning.com^
-||sinalsulsinalizacao.com^
 ||sinalsulsinalizacao.com.br^
+||sinalsulsinalizacao.com^
 ||sindell.org^
 ||sites.pt^
 ||sits.it^
@@ -970,6 +977,7 @@
 ||skyevntmanagement.com^
 ||skytenn-danmark.dk^
 ||sl24.com.ar^
+||slimphold.com^
 ||sng.link^
 ||social-mail.net^
 ||soelips.fr^
@@ -1000,8 +1008,8 @@
 ||stoledo.com.br^
 ||store-mix.com^
 ||strange-loops.com^
-||studiovecchietti.com^
 ||studioninja.com^
+||studiovecchietti.com^
 ||sundirect.in^
 ||superiorsolutions.ca^
 ||superonline.com^
@@ -1017,8 +1025,8 @@
 ||teamplanting.com^
 ||teamtjb.com^
 ||techno-life.it^
-||techtarget.com^
 ||techpros.io^
+||techtarget.com^
 ||telizon.ca^
 ||temu.com^
 ||testingnow.me^
@@ -1051,8 +1059,9 @@
 ||trust-it.com.au^
 ||turbotechracing.com^
 ||turbovote.org^
+||turewaged.wiki^
+||turkeyuns.com^
 ||tussa.com^
-||tuwien.ac.at^
 ||tuwien.ac.at^
 ||tux.at^
 ||tytocare.com^
@@ -1062,6 +1071,7 @@
 ||ukrtermodom.com.ua^
 ||uktermodom.com.ua^
 ||umanitoba.ca^
+||undabsts.com^
 ||uniathena.com^
 ||unimec.ro^
 ||uniodontosino.com.br^
@@ -1085,7 +1095,6 @@
 ||vctrainings.com^
 ||vdc.com.cn^
 ||vdc.com.vn^
-||vdc.com.vn^
 ||vedconferences.com^
 ||vendacerto.com.br^
 ||venere.com^
@@ -1096,9 +1105,9 @@
 ||vicmy.net^
 ||victorymarketingteam.com^
 ||viettien.com.vn^
-||viettien.com.vn^
 ||vilkorst.ee^
 ||vinasdelvero.es^
+||vipspask.com^
 ||virtual-cyberspace.com^
 ||virtualization-online.org^
 ||visons.ca^
@@ -1112,10 +1121,9 @@
 ||waragainststupid.com^
 ||warringtonscb.com^
 ||waterpektakel.com^
-||waterpektakel.com^
 ||wba.com^
-||web-campaigns.com^
 ||webcampaigns.com^
+||web-campaigns.com^
 ||web-campaigns.net^
 ||webinaraxisupdate.com^
 ||webinarupdateeducation.com^
@@ -1127,22 +1135,18 @@
 ||whlawfirm.com^
 ||wildrick.nl^
 ||williamsonlinecredit.com^
-||williamsonlinecredit.com^
 ||wilsoncreekuniongrain.com^
 ||wimarchitect.com^
-||*.windowsuploads.com^
 ||ws1.com^
 ||xledger.com^
 ||xmlhack.com^
 ||xn--h6qq3wtzo6m6a.com^
 ||xtfycjyzoqit.com^
 ||xtra.co.nz^
-||xtra.co.nz^
 ||yahoo.com.br^
 ||ybqgkgvusi.com^
 ||yektatadbir.com^
 ||yellowbellywebdesign.com^
-||yenimoda.net^
 ||yenimoda.net^
 ||yoavezer.eu^
 ||youliskeard.co.uk^
@@ -1157,5 +1161,6 @@
 ||zabrze.pl^
 ||zamacois.com^
 ||zdorzi.com^
+||zincwinter.com^
 ||zoominfo.io^
 ||zyngamail.com^
