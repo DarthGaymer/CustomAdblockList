@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20240719
+! Version: 20240826
 ! Title: Adguard Home Custom filter
-! Last modified: 7/17/24
+! Last modified: 8/26/24
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -73,6 +73,7 @@
 ||_dns.resolver.arpa^
 ||013.net^
 ||1und1.de^
+||18instinct.com^
 ||25quantage.com^
 ||9dsale.com^
 ||abri-terrasse-abrisud.com^
@@ -244,6 +245,7 @@
 ||chinafpn.com^
 ||chinamobile.com^
 ||chinatravelz.com^
+||choaglocma.com^
 ||chris.urban
 ||christmasbestdeals.com^
 ||cicotit.com^
@@ -451,6 +453,7 @@
 ||gulfco.com^
 ||gurmanio.org^
 ||gvic.ch^
+||gwggiroo.com^
 ||gwin.link^
 ||hackingtosh.net^
 ||haeorumusa.com^
@@ -542,6 +545,7 @@
 ||jarratop.com^
 ||jawsburn.us^
 ||jcnnet.jp^
+||jeffbearce.com^
 ||jerkmate.com^
 ||jerkmate.fun^
 ||jobportal2u.com^
@@ -559,6 +563,7 @@
 ||kddpyiyrbckqnw.com^
 ||kecoakecil.com^
 ||kellnermail.com^
+||kenny-deploy.com^
 ||keropetrol.com^
 ||khondeeherb.com^
 ||kimblegroup.com^
@@ -608,6 +613,7 @@
 ||love88.club^
 ||lovefoamrum.com^
 ||lowesnotebook.com^
+||loyaltystars.com^
 ||lucidchart.com^
 ||lupineresearch.net^
 ||m37.com^
@@ -954,6 +960,7 @@
 ||symbio-tic.org^
 ||synergy-italy.com^
 ||tai-chi-zentrum.de^
+||tapeadvertisement.com^
 ||taxduonline.com^
 ||tbtlokvohyx.com^
 ||teamplanting.com^
