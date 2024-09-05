@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20240826
+! Version: 20240905
 ! Title: Adguard Home Custom filter
-! Last modified: 8/26/24
+! Last modified: 9/5/24
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -95,6 +95,7 @@
 ||aeroclubtorino.it^
 ||afrocubaweb.com^
 ||agedama1ban.com^
+||aggregage.com^
 ||agpetek.com^
 ||agronas.pl^
 ||aimscholaracademy.org^
@@ -319,6 +320,7 @@
 ||digitalsupport.com^
 ||digiwinds.com^
 ||distrimusic.fr^
+||divenewsletter.com^
 ||dizani.com.tr^
 ||djmax.at^
 ||dljifgrdinmmb.com^
@@ -395,6 +397,7 @@
 ||fmmultan.com^
 ||fontsheader.com^
 ||forex-journal.com^
+||formstack.com^
 ||foxitpdf.com^
 ||foxitpdf.net^
 ||france-locations.fr^
@@ -786,6 +789,7 @@
 ||perusall.com^
 ||pgsummer.co.uk^
 ||pharmaaa.can^
+||pharveycorp.com^
 ||phs.org^
 ||picabooyearbooks.com^
 ||pickithenk.com^
