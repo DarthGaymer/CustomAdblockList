@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Version: 20240905
 ! Title: Adguard Home Custom filter
-! Last modified: 1/27/25
+! Last modified: 1/29/25
 ! Expires: 12 hours
 ! Homepage: https://github.com/DarthGaymer/CustomAdblockList
 !
@@ -544,6 +544,7 @@
 ||itainnova.es^
 ||itresourcescorp.com^
 ||itsonlyforayear.com^
+||ixlwvc.com^
 ||ium.pt^
 ||jadala.com^
 ||jannekeschmeitz.nl^
@@ -565,6 +566,7 @@
 ||kamaria.eu^
 ||katieporter.com^
 ||kazakhstan.com.ph^
+||kazfv.com^
 ||kbsmedia.com.kr^
 ||kddpyiyrbckqnw.com^
 ||kecoakecil.com^
@@ -835,6 +837,7 @@
 ||quavu.com.au^
 ||quicksnacks.net^
 ||quieremecomosoy.com^
+||quilvem.com^
 ||qulabs.com^
 ||quoteivory.com^
 ||rad1.fr^
@@ -1047,6 +1050,7 @@
 ||vicmy.net^
 ||victorymarketingteam.com^
 ||viettien.com.vn^
+||vicksot.com^
 ||vilkorst.ee^
 ||vinasdelvero.es^
 ||vipspask.com^
@@ -1089,6 +1093,7 @@
 ||yektatadbir.com^
 ||yellowbellywebdesign.com^
 ||yenimoda.net^
+||yieldmrm.com
 ||yoavezer.eu^
 ||youliskeard.co.uk^
 ||youngwire.com^
