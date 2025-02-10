@@ -641,7 +641,6 @@
 ||mattwelch.com^
 ||maurymw.com^
 ||mayabasim.com^
-||medallia.com^
 ||mediadeguate.com^
 ||merrymaids.com^
 ||meteoalpi.com^
