@@ -67,7 +67,6 @@
 
 # Spam/Phishing Domains
 
-||*.in-addr.arpa^
 ||*.star.*.facebook.com^
 ||*.windowsuploads.com^
 ||_dns.resolver.arpa^
